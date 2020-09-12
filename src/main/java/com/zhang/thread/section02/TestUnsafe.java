@@ -1,6 +1,5 @@
 package com.zhang.thread.section02;
 
-import com.sun.org.apache.xpath.internal.operations.Bool;
 import sun.misc.Unsafe;
 
 /**
