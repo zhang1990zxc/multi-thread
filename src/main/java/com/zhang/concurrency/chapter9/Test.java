@@ -10,5 +10,9 @@ package com.zhang.concurrency.chapter9;
 public class Test {
     public static void main(String[] args) {
         System.out.println(Runtime.getRuntime().availableProcessors());
+
+        int n = 1;
+        System.out.println(n << 2);
+        System.out.println(n);
     }
 }
